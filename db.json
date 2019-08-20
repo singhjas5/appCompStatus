@@ -1,20 +1,7 @@
 {
-     "posts": 
-   [
-      {
-       "componentName": "SCHEDULER",
-       "componentStatus": "UP",
-       "componentStatusDetails":{"Scheduler Status":"Scheduler is UP"}
-       },
-      {
-       "componentName": "STATSENGINE",
-       "componentStatus": "DOWN",
-       "componentStatusDetails":{"Engines Status":"Engines are Down"}
-       },
-      {
-       "componentName": "CLIENT",
-       "componentStatus": "ERROR",
-       "componentStatusDetails":{"Client Status":"Client is in error state"}
-       }
+  "status": [
+      { "componentName": "SCHEDULER", "componentStatus": "UP", "componentStatusDetails":{"Scheduler Status":"Scheduler is UP"}},
+      { "componentName": "STATSENGINE", "componentStatus": "DOWN", "componentStatusDetails":{"Engines Status":"Engines are Down"}},
+      { "componentName": "CLIENT", "componentStatus": "ERROR", "componentStatusDetails":{"Client Status":"Client is in error state"}}
    ]
 }
