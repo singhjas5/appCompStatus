@@ -2,7 +2,7 @@
   "compStatus": [
       { "componentName": "SCHEDULER", "componentStatus": "UP", "componentStatusDetails":{"Scheduler Status":"Scheduler is UP"}},
       { "componentName": "STATSENGINE", "componentStatus": "UP", "componentStatusDetails":{"Engines Status":"Engines are up"}},
-      { "componentName": "CLIENT", "componentStatus": "ERROR", "componentStatusDetails":{"Client Status":"Client is in error state"}}
+      { "componentName": "CLIENT", "componentStatus": "UP", "componentStatusDetails":{"Client Status":"Client is in error state"}}
    ],
   "dbStorage":{"totalSpace": {"id": 1,"storageUnit": "MB","magnitude": 5000000000},
                "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 4000000000},
