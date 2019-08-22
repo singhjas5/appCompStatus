@@ -1,7 +1,7 @@
 {
   "compStatus": [{"displayName":"SCHEDULER","status":"UP","statusMessage":"Scheduler is UP"},
 	  {"displayName":"STATSENGINE","status":"UP","statusMessage":"Engines are up"},
-	  {"displayName":"CLIENT","status":"DOWN", "statusMessage":"Client is down"}
+	  {"displayName":"CLIENT","status":"UP", "statusMessage":"Client is down"}
    ],
   "dbStorage":{"totalSpace": {"id": 1,"storageUnit": "MB","magnitude": 5000000000},
                "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 4000000000},
