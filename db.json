@@ -3,8 +3,8 @@
 	  {"displayName":"STATSENGINE","status":"UP","statusMessage":"Engines are up"},
 	  {"displayName":"CLIENT","status":"UP", "statusMessage":"Client is up"}
    ],
-  "dbStorage":{"totalSpace": {"id": 1,"storageUnit": "MB","magnitude": 50000},
-               "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 40000},
-               "freeSpace": {"id": 1,"storageUnit": "MB","magnitude": 10000}
+  "dbStorage":{"totalSpace": {"id": 1,"storageUnit": "MB","magnitude": 500000},
+               "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 400000},
+               "freeSpace": {"id": 1,"storageUnit": "MB","magnitude": 100000}
               } 
 }
