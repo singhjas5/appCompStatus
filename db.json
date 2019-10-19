@@ -1,5 +1,5 @@
 {
-  "compStatus": [{"displayName":"SCHEDULER","status":"Down","statusMessage":"Scheduler is Down"},
+  "compStatus": [{"displayName":"SCHEDULER","status":"down","statusMessage":"Scheduler is down"},
 	  {"displayName":"STATSENGINE","status":"UP","statusMessage":"Engines are up"},
 	  {"displayName":"CLIENT","status":"UP", "statusMessage":"Client is up"}
    ],
