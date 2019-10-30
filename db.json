@@ -6,5 +6,10 @@
   "dbStorage":{"totalSpace": {"id": 1,"storageUnit": "MB","magnitude": 500000},
                "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 400000},
                "freeSpace": {"id": 1,"storageUnit": "MB","magnitude": 100000}
-              }
+              },
+  "dbStorage1": [{"freeSpace":{"id":0,"storageUnit":"MB","magnitude":4990},
+		"totalSpace":{"id":0,"storageUnit":"MB","magnitude":5096},
+		"usedSpace":{"id":0,"storageUnit":"MB","magnitude":106},
+		"statsDBName":"NGTA_STATS","id":null,"computedDate":null,"computedDateInUTC":null,"lastUpdateDateInMillis":0}
+  ]
 }
