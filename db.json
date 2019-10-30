@@ -7,7 +7,7 @@
                "usedSpace": {"id": 1,"storageUnit": "MB","magnitude": 400000},
                "freeSpace": {"id": 1,"storageUnit": "MB","magnitude": 100000}
               }
-  "dbStorage1": {}[
+  "dbStorage1":[
 	  {
 		"freeSpace": {
 		  "id": 0,
